@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices.WindowsRuntime;
 
-namespace ConsoleApp1
+namespace BinaryGap
 {
     class Program
     {
