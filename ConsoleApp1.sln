@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "ConsoleApp1\BinaryGap.csproj", "{4698A821-4005-4DA3-8E2C-EE636B692439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryGap", "ConsoleApp1\BinaryGap.csproj", "{4698A821-4005-4DA3-8E2C-EE636B692439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{7BF184D5-F35E-438F-802B-AF15257EC665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurences", "OddOccurences\OddOccurences.csproj", "{A8E7C5F8-0D92-43FF-9901-F0B84ABC7D2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4698A821-4005-4DA3-8E2C-EE636B692439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4698A821-4005-4DA3-8E2C-EE636B692439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4698A821-4005-4DA3-8E2C-EE636B692439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF184D5-F35E-438F-802B-AF15257EC665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF184D5-F35E-438F-802B-AF15257EC665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF184D5-F35E-438F-802B-AF15257EC665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF184D5-F35E-438F-802B-AF15257EC665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E7C5F8-0D92-43FF-9901-F0B84ABC7D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E7C5F8-0D92-43FF-9901-F0B84ABC7D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E7C5F8-0D92-43FF-9901-F0B84ABC7D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E7C5F8-0D92-43FF-9901-F0B84ABC7D2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
